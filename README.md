@@ -1,6 +1,6 @@
 <img src="Cover.png" width="860" />
 
-<b>CommandF</b> is a new, modern take on the Finder app. Currently in heavy development.
+<b>CommandF</b> is a new, modern take on the classic Finder app. Currently in heavy development.
 
 ## Goals
 CommandF was built from the ground up for durability and speed. The end goal is to create a beautiful, open-source product written in Swift.
