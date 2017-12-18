@@ -28,11 +28,15 @@ CommandF was built from the ground up for durability and speed. The end goal is 
     - [ ] Additional Features
     - [ ] Miscellaneous
 - [ ] Menu
+	- [x] UI Setup
     - [ ] Favorites
+    - [x] Custom TableView
     - [ ] Custom Favorites
     - [ ] Files (by Type)
-    - [ ] Blur Visual FX
+    - [x] Blur Visual FX
+    - [x] Menu Source Module
 - [ ] Detail
+	- [x] UI Setup
 	- [ ] Custom TableView Cells
     - [ ] Files (Icons, Blur FX)
     - [ ] Folders (Tags, Colors)
