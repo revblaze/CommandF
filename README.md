@@ -12,7 +12,7 @@ CommandF was built from the ground up for durability and speed. The end goal is 
 - A Modern Take on the Classic Finder App
 - Additional Functionality (FTP, SSH, Cloud Drives)
 
-## Completed
+## Progress
 - [ ] Foundation
     - [ ] Menu View
     - [ ] Detail View
@@ -37,6 +37,7 @@ CommandF was built from the ground up for durability and speed. The end goal is 
     - [ ] Files (Icons, Blur FX)
     - [ ] Folders (Tags, Colors)
     - [ ] List / Visual View Options
+    - [ ] Custom Icon Generation
 - [ ] Control Functions
 	- [ ] Create
 	- [ ] Rename
