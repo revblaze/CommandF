@@ -88,7 +88,7 @@ CommandF was built from the ground up for durability and speed. The end goal is 
 None as of yet.
 
 ## References
-None as of yet.
+Possible Reference: https://github.com/treblam/SimpleCommander
 
 ## Requirements
 Requires macOS 13.0 or later.
@@ -96,7 +96,7 @@ Requires macOS 13.0 or later.
 
 ## MIT License
 
-Copyright © 2018 Justin Bush & Francesco Virga. All rights reserved.
+Copyright © 2019 Justin Bush. All rights reserved.
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
